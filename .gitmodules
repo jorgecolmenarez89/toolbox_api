@@ -1,2 +1,4 @@
 [submodule "clientes"]
 	ignore = untracked
+[submodule "cliente"]
+	ignore = untracked
